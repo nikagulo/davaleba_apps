@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802970232705",
+    "firebase_url": "https://davalebanikaguliashvili-5b901.firebaseio.com",
+    "project_id": "davalebanikaguliashvili-5b901",
+    "storage_bucket": "davalebanikaguliashvili-5b901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802970232705:android:df04cf6ef177fd446a6a80",
+        "android_client_info": {
+          "package_name": "com.example.nika_guliashvili_davaleba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802970232705-td4ikq9dlc0mu4nlc5b56lqi9i8id6g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nika_guliashvili_davaleba",
+            "certificate_hash": "d21684b4d5ed6c8789b0c3b74cb330e04bcfe539"
+          }
+        },
+        {
+          "client_id": "802970232705-9qv3kd8mjsjmpb3g1ea1mus1k5d7libv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCktg6NhJ3brpdhn2wcAOUM90Cm9Lzm3FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802970232705-9qv3kd8mjsjmpb3g1ea1mus1k5d7libv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
